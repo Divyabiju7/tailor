@@ -1,0 +1,230 @@
+.sec1{
+    background-color:white;
+}
+
+.inbox1{
+    /* background-color:bisque; */
+    height: 100px;
+    width: 200px;
+}
+.sec2{
+    background-color: cornflowerblue;
+}
+.inbox2{
+    /* background-color: brown; */
+    /* height:600px; */
+}
+.model{
+    height: 100%;
+    
+}
+.inbox3{
+    /* background-color: aquamarine; */
+    /* height: 600PX; */
+    color: white;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.b{
+    font-size: 15px;
+   
+}
+.inbox3 h1{
+    margin-bottom: 30px;
+}
+
+.c{
+    font-size:20px ;
+}
+.d{
+    max-width: 170px;
+    background-color: white;
+    height: 2px;
+    margin: auto;
+}
+.e{
+    background-color: white;
+    color: cornflowerblue;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color:white;
+    border: solid 1px white;
+    }
+    .sec3{
+            color: white;
+    }
+
+    .inbox4{
+        /* background-color: yellow; */
+        /* height: 200px; */
+        text-align: center;
+        padding: 25px;
+    }
+    .f{
+       font-size:25px;
+       color: black;
+    }
+    .w{
+        max-width: 100px;
+        margin: auto;
+        color: grey;
+    }
+    .g{
+        font-size: 15px;
+        color: black;
+    }
+
+    .h{
+        font-size: 12px;
+        text-decoration: none;
+        border-style: solid;
+        border-color:cornflowerblue;
+        color: cornflowerblue;
+        padding: 5px 35px;
+        background-color: white;
+    }
+    .sec4{
+        background-color: cornflowerblue;
+    }
+    .inbox5{
+        /* background-color: orange; */
+        /* height: 250px; */
+        text-align: center;
+    }
+    .icon1{
+        font-size: 35px;
+        color: white;
+
+    }
+.i{
+    text-decoration: none;
+    color: white;
+}
+
+
+    .j{
+        max-width: 80px;
+        margin: auto;
+        height: 6px;
+    background-color:white;
+    }
+
+    .k{
+        font-size: 15px;
+        color: white;
+    }
+
+    .sec5{
+        background-color:black;
+    }
+    .inbox6{
+        /* background-color:pink; */
+        height: 300px;
+        text-align: center;
+    }
+    .l{
+        color: white;
+        font-size: 20px;
+        margin-top: 20px;
+        display: inline-block;
+
+    }
+    .m{
+        color: white;
+        font-size:10px ;
+    }
+    .n{
+        font-size: 12px;
+        text-decoration: none;
+        border-style: solid;
+        border-color:white;
+        color: cornflowerblue;
+        padding: 5px 35px;
+        background-color: white;
+    }
+    .sec6{
+        /* background-color: beige; */
+
+    }
+.inbox7{
+    /* background-color: gray; */
+    height: 100px;
+    text-align: center;
+}
+
+    .o{
+        color: black;
+        font-size: 35px;
+    }
+    .p{
+        max-width: 90px;
+        margin: auto;
+    }
+    .inbox8{
+        /* background-color: cadetblue; */
+        height: 150px;
+         margin-top: 10px;
+        margin-right: -10px; 
+        /* text-align: center; */
+        /* margin: 10px; */
+    }
+
+    .sec7{
+    background-color: rgb(72, 71, 71);
+     margin-top: 30px;
+    }
+
+    .inbox9{
+        /* background-color: bisque; */
+
+        height: 350px;
+        text-align: center;
+    }
+
+    .q{
+          color: white;
+          padding-top: 30px;
+         display: inline-block;
+    }
+    .r{
+        color: white;
+        font-size: 30px;
+    }
+    .s{
+        color:white;
+    }
+    .t{
+            text-decoration: none;
+         color:cornflowerblue;
+            background-color: white;
+               padding: 10px 15px;
+    }
+    .sec8{
+/* background-color: brown; */
+    }
+    .inbox10{
+              background-color: white;
+         /* height: 250px; */
+        text-align: center;
+        padding-top: 20px;
+    }
+    .icon2{
+        color: grey;
+        border-radius: 0%;
+        padding: 5px 10px;
+    }
+    .u{
+        color: grey;
+        font-size: smaller;
+    }
+    .v{
+        font-size: smaller;
+        color: cornflowerblue;
+    }
+    @media(max-width:575px){
+        .model{
+            width: 100%;
+            height: fit-content;
+        }
+    }
